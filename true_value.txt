@@ -1,0 +1,5 @@
+### true values for linear fitting  ###
+### the test data will be generated ###
+### using these parameters.         ###
+### slope ###### y-intercept ##########
+    3.0          5.0
